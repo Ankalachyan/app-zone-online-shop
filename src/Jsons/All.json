@@ -1,0 +1,165 @@
+[
+    {
+        "id": "1",
+        "img": "https://notebookcentre.am/wa-data/public/shop/products/48/44/4448/images/8395/8395.750.jpg",
+        "name": "Bag 14 0087",
+        "description": "Պայուսակ / 14",
+        "price": "12 500",
+        "category":"Accessories"
+    },
+    {
+        "id": "2",
+        "img": "https://www.digitaltrends.com/wp-content/uploads/2022/10/Apple-Watch-SE-GPS-Cellular-40mm-Smart-Watch-w-Space-Grey-Aluminium-Case-with-Midnight-Sport-Band.jpg?fit=720%2C540&p=1",
+        "name": "Apple Watch",
+        "description": "Series SE 44mm (2022)",
+        "price": "150 100",
+        "category":"Accessories"
+    },
+    {
+        "id": "3",
+        "img": "https://istyle.am/wp-content/uploads/2021/12/9528bc4d5890b0222b5c468909017767.jpg",
+        "name": "Apple USB-C Charger",
+        "description": "20W / iOS",
+        "price": "13 000",
+        "category":"Accessories"
+    },
+    {
+        "id": "4",
+        "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLWJ3?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1630029877000",
+        "name": "Apple Watch Magnetic Charging Cable",
+        "description": "1m / iOS",
+        "price": "18 000",
+        "category":"Accessories"
+    },
+    {
+        "id": "5",
+        "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-hero-select-202011_FMT_WHH?wid=607&hei=556&fmt=jpeg&qlt=90&.v=1633623988000",
+        "name": "Airpods Max",
+        "description": "6.1 դյույմ / 6 ԳԲ RAM / 128 ԳԲ ROM / Հիմն. տ-խցիկ - 12 MP + 12MP / Դիմ. տ-խցիկ - 12MP / iOS",
+        "price": "295 900",
+        "category":"Accessories"
+    }, {
+        "id":"6",
+        "img":  "https://notebookcentre.am/wa-data/public/shop/products/24/50/5024/images/9660/9660.750.png" ,
+        "name":  "MacBook Air MLY33 (Late 2022)" ,
+        "description":"13.5 դյույմ / 8 ԳԲ RAM / 256 ԳԲ SSD / MacOS",
+        "price":"582 100",
+        "category":"Notebooks"
+    },
+    {
+        "id":"7",
+        "img":  "https://notebookcentre.am/wa-data/public/shop/products/24/30/3024/images/4854/4854.750.jpg"  ,
+        "name":  "MacBook Pro MYDA2 (2020)" ,
+        "description":"13.3 դյույմ / 8 ԳԲ RAM / 256 ԳԲ SSD / Apple M1 GPU / MacOS",
+        "price":"636 100",
+        "category":"Notebooks"
+    },
+    {
+        "id":"8",
+        "img":  "https://notebookcentre.am/wa-data/public/shop/products/72/39/3972/images/7330/7330.200@2x.jpg"  ,
+        "name":  "Asus VivoBook K3500P" ,
+        "description":"15.6 դյույմ / Core i5 11300H / 8 ԳԲ RAM / 256 ԳԲ SSD / Intel Iris Plus Graphics / Dos",
+        "price":"322 900",
+        "category":"Notebooks"
+    },
+    {
+        "id":"9",
+        "img":  "https://notebookcentre.am/wa-data/public/shop/products/41/54/5441/images/10641/10641.970.png"  ,
+        "name":  "Asus ZenBook 14 OLED UX5400EG-KN178W" ,
+        "description":"14 դյույմ / Core i7 1165G7 / 16 ԳԲ RAM / 1 ՏԲ SSD / GeForce MX450 2Gb / Touch Screen / Windows 11",
+        "price":"725 700",
+        "category":"Notebooks"
+    },
+    {
+        "id":"10",
+        "img":  "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08089814.png"  ,
+        "name":  "HP ProBook 450 G9" ,
+        "description":"15.6 դյույմ / Core i5 1235U / 8 ԳԲ RAM / 512 ԳԲ SSD / GeForce MX570 2Gb / Dos",
+        "price":"426 600",
+        "category":"Notebooks"
+    }, {
+        "id": "11",
+        "img": "https://notebookcentre.am/wa-data/public/shop/products/31/50/5031/images/9679/9679.750@2x.jpg",
+        "name": "IPhone 14 128Gb",
+        "description":"6.1 դյույմ / 6 ԳԲ RAM / 128 ԳԲ ROM / Հիմն. տ-խցիկ - 12 MP + 12MP / Դիմ. տ-խցիկ - 12MP / iOS",
+        "price": "426 600",
+        "category":"Phones"
+    },
+    {
+        "id": "12",
+        "img": "https://s3.eu-central-1.amazonaws.com/smartyarmenia/images/product_image/8457268e6da08f159bf1a6112d349378.jpg",
+        "name": "iPhone 11",
+        "description": "6.7 դյույմ / 6 ԳԲ RAM / 256 ԳԲ ROM / Հիմն. տ-խցիկ - 12MP+12MP+12MP / Դիմ. տ-խցիկ - 12MP / iOS",
+        "price": "264 400",
+        "category":"Phones"
+    },
+    {
+        "id": "13",
+        "img": "https://notebookcentre.am/wa-data/public/shop/products/52/22/2252/images/3184/3184.750@2x.jpg",
+        "name": "iPhone 12 128GB",
+        "description":"6.1 դյույմ / 4 ԳԲ RAM / 128 ԳԲ ROM / Հիմն. տ-խցիկ - 12 MP + 12MP / Դիմ. տ-խցիկ - 12MP / iOS",
+        "price": "322 900",
+        "category":"Phones"
+    },
+    {
+        "id": "14",
+        "img": "https://www.apple.com/v/iphone-13-pro/f/images/overview/design/finishes_1_static__lrwz60bo1d26_large.jpg",
+        "name": "iPhone 13 Pro Max",
+        "description":"6.7 դյույմ / 6 ԳԲ RAM / 256 ԳԲ ROM / Հիմն. տ-խցիկ - 12MP+12MP+12MP / Դիմ. տ-խցիկ - 12MP / iOS",
+        "price": "625 300 ",
+        "category":"Phones"
+    },
+    {
+        "id": "15",
+        "img": "https://notebookcentre.am/wa-data/public/shop/products/36/50/5036/images/9690/9690.750@2x.jpg",
+        "name": "IPhone 14 Pro Max",
+        "description": "6.1 դյույմ / 6 ԳԲ RAM / 128 ԳԲ ROM / Հիմն. տ-խցիկ - 12 MP + 12MP / Դիմ. տ-խցիկ - 12MP / iOS",
+        "price": "426 600",
+        "category":"Phones"
+    }, 
+    {
+        "id":"16",
+        "img":  "https://notebookcentre.am/wa-data/public/shop/products/31/50/5031/images/9679/9679.750@2x.jpg" ,
+        "name":  "IPhone 14 128Gb" ,
+        "description":"6.1 դյույմ / 6 ԳԲ RAM / 128 ԳԲ ROM / Հիմն. տ-խցիկ - 12 MP + 12MP / Դիմ. տ-խցիկ - 12MP / iOS",
+        "price":"426 600",
+        "newprice":"415 600",
+        "category":"Sale"
+    },
+    {
+        "id":"17",
+        "img":  "https://notebookcentre.am/wa-data/public/shop/products/66/46/4666/images/8886/8886.200@2x.jpg"  ,
+        "name":  "Xiaomi Redmi Power bank" ,
+        "description":"20000mAh / 18W /  Fast Charge",
+        "price":"14 000",
+        "newprice":"12000",
+        "category":"Sale"
+    },
+    {
+        "id":"18",
+        "img":  "https://notebookcentre.am/wa-data/public/shop/products/50/25/2550/images/3624/3624.200@2x.JPG"  ,
+        "name":  "Apple USB-C Charger" ,
+        "description":"20W / iOS",
+        "price":"13 000",
+        "newprice":"11 000",
+        "category":"Sale"
+    },
+    {
+        "id":"19",
+        "img":  "https://notebookcentre.am/wa-data/public/shop/products/56/55/5556/images/10908/10908.750.png"  ,
+        "name":  "Asus ZenBook 14 OLED UX5400EG-KN178W" ,
+        "description":"14 դյույմ / 16 ԳԲ RAM / 1 ՏԲ SSD /Touch Screen / Windows 11",
+        "price":"725 700",
+        "newprice":"706 600",
+        "category":"Sale"
+    },
+    {
+        "id":"20",
+        "img":  "https://images.kabum.com.br/produtos/fotos/sync_mirakl/241435/Kit-Com-3-Pen-Drive-Sandisk-Cruzer-Blade-Sdcz50-64gb_1661792943_g.jpg"  ,
+        "name":  "SanDisk 64Gb" ,
+        "description":"64 ԳԲ / USB 2.0",
+        "price":"7 500",
+        "newprice": "5 500",
+        "category":"Sale"
+    }
+]

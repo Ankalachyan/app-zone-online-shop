@@ -1,0 +1,50 @@
+@import '../../assets/Css/Scss/mixins.scss';
+.about-background{
+    @include size(100%,800px);
+    @include background-image("../../assets/img/about-background.jpeg");
+}
+@font-face {
+    font-family: "Kanit";   
+    src:  url("../../assets/fonts/Kanit-Regular.ttf") 
+}
+  @font-face {
+    font-family: "Righteous";   
+    src:  url("../../assets/fonts/Righteous-Regular.ttf") 
+}
+.title{
+    @include text (center,50px,"Righteous",#8f8b8b);
+    padding-top: 100px;
+    
+}
+.subtitle{
+    @include text (center,null,"Kanit",#8f8b8b)
+   
+    
+}
+.info{
+    @include text (center,22px,"Kanit",#f7f3f3);
+
+}
+.info-box{
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 20px;
+}
+.btn-box{
+   display: flex;
+   justify-content: center;
+padding-bottom: 10px;
+}
+@media (max-width:530px) {
+    .title{
+      font-size: 44px;
+  
+    }
+    .subtitle{
+      font-size: 18px;
+    }
+    .info{
+       font-size:16px ; 
+    }
+  }

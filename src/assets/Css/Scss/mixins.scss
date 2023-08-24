@@ -1,0 +1,22 @@
+@mixin background-image($url,$position:center,$size:cover){
+    background-image: url($url);
+    background-position: $position;
+    background-size: $size;
+    background-repeat: no-repeat;
+}
+@mixin size ($width,$height,$bg_color:white){
+    width: $width;
+    min-height: $height;
+    background-color: $bg_color;
+}
+@mixin text ($center,$size,$family,$color){
+    text-align: $center;
+    font-size: $size;
+    font-family: $family ;
+    color: $color;
+}
+
+@mixin flex-evenly(){
+    display: flex;
+    justify-content: space-evenly;
+}

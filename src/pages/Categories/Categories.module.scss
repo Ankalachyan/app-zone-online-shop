@@ -1,0 +1,58 @@
+@import "../../assets/Css/Scss/mixins.scss";
+
+
+
+
+.prod-big-box{
+    @include flex-evenly();
+}
+.phone-background {
+    @include size(100%, 370px);
+    @include background-image("../../assets/img/notebook-bg.webp");
+}
+@font-face {
+    font-family: "Kanit";
+    src: url("../../assets/fonts/Kanit-Regular.ttf");
+}
+@font-face {
+    font-family: "Righteous";
+    src: url("../../assets/fonts/Righteous-Regular.ttf");
+}
+.title {
+    @include text(center, 50px, "Righteous", #dddbdb);
+    padding-top: 80px;
+}
+.subtitle {
+    @include text(center, null, "Kanit", #dddbdb);
+    padding-top: 30px;
+}
+.name {
+    @include text(center, 60px, "Kanit", #dddbdb);
+    padding-top: 30px;
+}
+.prod-title{
+    font-family: "Kanit";
+    margin-top: 60px;
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.791);
+   
+}
+@media (max-width:414px) {
+    .prod-title{
+        font-size: 20px;
+    }
+   
+}
+@media (max-width:375px) {
+    
+    .title{
+    font-size: 38px;
+}
+.subtitle{
+    font-size: 18px;
+}
+.prod-title{
+    font-size: 17px;
+    margin-top: 100px;
+}
+}
